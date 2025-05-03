@@ -1,2 +1,2 @@
-# Flutter_EgyptTour_Project
+# Analytics tab for the project
 ongoing until dawn
